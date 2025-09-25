@@ -1,0 +1,4 @@
+.parent{ max-width:300px; border:1px solid silver;
+    border-radius: 15px; margin:auto; padding:5px; }
+h2 { text-align:center; color:#585874; }
+li { list-style: circle; }

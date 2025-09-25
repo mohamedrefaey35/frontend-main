@@ -1,0 +1,5 @@
+<div class="parent">
+    <h2>parent</h2>
+    <ul> <li *ngFor="let c of c2">{{c}}</li> </ul>
+    <app-child [c2]="currentC2" (newC2Event)="addC2($event)"> </app-child> 
+</div>

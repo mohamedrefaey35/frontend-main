@@ -1,0 +1,5 @@
+.child { border:1px solid gray;  border-radius: 15px; 
+    margin:5px; padding:5px; }
+h2 { text-align:center; color: navyblue; }
+button { margin-left:5px; color:#fff; background-color:#63638a; 
+    border:none; padding:5px 10px; cursor:pointer;  }

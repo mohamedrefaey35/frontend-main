@@ -1,0 +1,8 @@
+{
+    "apiUrl": "http://localhost:2000",
+    "title": "Cairo App",
+    "apiGatewayURL": "http://localhost:65403/",
+     "apiRoutes":
+         {"Identiification":"v1.0/identification/",
+         "leadershipNomination":"v1.0/leadershipNomination/"}
+}

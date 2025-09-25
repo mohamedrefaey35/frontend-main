@@ -1,0 +1,16 @@
+/* section contact  */
+.headimg { 
+    /* top:0; margin-top: -75px; */
+    background:url("/assets/imgs/1.jpg") no-repeat center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    height:300px; min-height: 300px;
+ }
+  .headimg .centering-vh { padding-top:200px; }
+  .contact-form { padding:50px 0 50px 0;}
+  .contact-form input, 
+  .contact-form textarea { border-radius:10px; width:80%; padding: 10px; margin: 20px;}
+  /* .contact-form button { width:;} */
+  .contact-list  { list-style:none; }

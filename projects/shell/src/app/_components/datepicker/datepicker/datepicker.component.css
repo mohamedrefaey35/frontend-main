@@ -1,0 +1,2 @@
+.tabs-content div:not(.tab-one) { display:none; }
+.btn {  padding: 0 20px ; } 
